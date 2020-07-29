@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	background-color: #801000;
+}
+
+#container {
+	background-color: #FFFB90;
+
+    border-left: 2px solid #303030;
+    border-right: 2px solid #303030;
+
+    width: 600px;
+    min-height: 100%;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 0px;
+
+}
+
+#header {
+	background-color: #FFE79C;
+    border-bottom: 1px solid #202020;
+    padding-top: 5px;
+}
+
+#header h2 {
+    margin: 0px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+#content {
+    padding: 5px;
+
+}
+
+a, a:visited {
+    color: #801000;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #E0D099;
+}
